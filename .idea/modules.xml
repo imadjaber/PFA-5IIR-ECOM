@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/E-Commerce/backend/backend-gateway/backend-gateway.iml" filepath="$PROJECT_DIR$/E-Commerce/backend/backend-gateway/backend-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/E-Commerce/backend/backendone/backendone.iml" filepath="$PROJECT_DIR$/E-Commerce/backend/backendone/backendone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/E-Commerce/backend/backendthree/backendthree.iml" filepath="$PROJECT_DIR$/E-Commerce/backend/backendthree/backendthree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/E-Commerce/backend/backendtwo/backendtwo.iml" filepath="$PROJECT_DIR$/E-Commerce/backend/backendtwo/backendtwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/react ecom.iml" filepath="$PROJECT_DIR$/.idea/react ecom.iml" />
+    </modules>
+  </component>
+</project>
